@@ -10,6 +10,7 @@ public class TestEva {
 		for (int i = 0; i < 3; i++) {
 			System.out.println("hrab");
 		}
+		System.out.println("v nedeli eva zdravi papa");
 	}
 
 }
